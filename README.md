@@ -1,6 +1,11 @@
 # Goal
-http://webcamera.netlify.com  http://webcamera.luhui.net
+http://webcamera.netlify.com
+
+http://webcamera.luhui.net
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d11f9872-f020-46e3-a267-f0e16021f28a/deploy-status)](https://app.netlify.com/sites/webcamera/deploys)
+
+
 This is a collection of samples to demonstrate the Camera controls for the Web.
 
 They are mostly used for ImageCapture/MediaStream and WebRTC APIs.
